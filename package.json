@@ -1,0 +1,19 @@
+{
+  "name": "alan-first-npm",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alam9316",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alam9316/alan-first-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alam9316/alan-first-npm/issues"
+  },
+  "homepage": "https://github.com/alam9316/alan-first-npm#readme"
+}
